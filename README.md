@@ -1,0 +1,1 @@
+This repository provides stock analysis using Python scripts for many market stocks. I use Microsoft, Apple, Google, and Amazon. It is an exact examination of five years' worth of data, pulled straight from the Yahoo website. The output is based on a query; if you would want a detailed structure, please contact me.
